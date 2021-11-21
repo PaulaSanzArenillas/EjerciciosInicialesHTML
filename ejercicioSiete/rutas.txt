@@ -1,0 +1,13 @@
+.\C\b.txt                   
+A\D\E\F
+..\..\..\
+A\B\C\c.txt
+A\D\E\F\a.txt
+..\..\D\E\F\a.txt
+A\D\E
+.\   o solo  .
+..\  o solo  ..
+.\F
+A\D\E\F
+
+Todo esto con cd delante al trabajar en la terminal
